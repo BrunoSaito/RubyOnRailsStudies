@@ -1,0 +1,5 @@
+{
+  "name": "helloWorldNoPostgres",
+  "private": true,
+  "dependencies": {}
+}
